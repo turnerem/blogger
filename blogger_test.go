@@ -1,6 +1,7 @@
 package blogger_test
 
 import (
+  blogger "github.com/turnerem/blogger"
   "testing"
   "testing/fstest"
 )
